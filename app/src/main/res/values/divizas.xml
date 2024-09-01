@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currencies_array">
+        <item>Diviza inicial</item>
+        <item>MXM - Pesos </item>
+        <item>USD - Dólares</item>
+        <item>EUR - Euros</item>
+        <item>BS - Bolívar</item>
+        <item>JPY - Yen</item>
+    </string-array>
+
+    <string-array name="currencies_array_final">
+        <item>Diviza destino</item>
+        <item>MXM - Pesos </item>
+        <item>USD - Dólares</item>
+        <item>EUR - Euros</item>
+        <item>BS - Bolívar</item>
+        <item>JPY - Yen</item>
+    </string-array>
+</resources>
